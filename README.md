@@ -111,6 +111,7 @@ Windows Firewall uses inbound and outbound rules to manage traffic. We blocked p
 * Telnet Connection Attempt
 * Windows Defender Firewall Inbound Rule
 * PowerShell Telnet Test Result
+* UFW Rules in Terminal
 
 ---
 
